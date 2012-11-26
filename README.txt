@@ -1,5 +1,7 @@
-Sample implementation of MODx Package Provider
+Fully-functional implementation of MODx Package Provider. 
 ----
+
+Gives ability to build and distribute code and themes for MODx. 
 
 Currenly sample package is defined in body of index.php.
 This sample package will install one snippet, one chunk and one template in MODx resource tree.
